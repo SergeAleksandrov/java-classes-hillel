@@ -1,10 +1,10 @@
-package HOME_TASKS.Lesson_1;
+package HOME_TASKS.Lesson_2;
 
 public class CheckPassFail {
 
   public static void main(String[] args) {
-    System.out.println("DONE");
     markCheckPassFail();
+    System.out.println("DONE");
   }
   public static void markCheckPassFail(){
     int mark = 50;
