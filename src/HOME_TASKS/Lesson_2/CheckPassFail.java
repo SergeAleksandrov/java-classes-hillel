@@ -5,6 +5,7 @@ public class CheckPassFail {
   public static void main(String[] args) {
     markCheckPassFail();
     System.out.println("DONE");
+
   }
   public static void markCheckPassFail(){
     int mark = 50;
