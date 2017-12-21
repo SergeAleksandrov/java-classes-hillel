@@ -1,6 +1,7 @@
 package HOME_TASKS.Lesson_2;
 
 public class PrintNumberInWord_2 {
+
   public static void main(String[] args) {
     numberPrintNumberInWord();
   }
