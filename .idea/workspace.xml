@@ -51,12 +51,12 @@
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_3/WaterMixture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               <folding>
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -816,12 +816,12 @@
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_3/WaterMixture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding>
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
           </folding>
         </state>
       </provider>

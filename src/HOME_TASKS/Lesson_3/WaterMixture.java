@@ -1,6 +1,7 @@
 package HOME_TASKS.Lesson_3;
 
 public class WaterMixture {
+
   public static void main(String[] args) {
     double volume = volume(2.5, 4.8);
     double temperature = temperature(10, 8);
