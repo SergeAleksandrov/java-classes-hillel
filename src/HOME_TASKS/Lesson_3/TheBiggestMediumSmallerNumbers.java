@@ -1,6 +1,6 @@
 package HOME_TASKS.Lesson_3;
 
-public class TheBiggestNumber {
+public class TheBiggestMediumSmallerNumbers {
 
   public static void main(String[] args) {
     // Numbers shouldn't be equal
@@ -12,11 +12,11 @@ public class TheBiggestNumber {
       if (a > c) {
         if (b > c) {
           System.out.println("The number 'a' is the biggest out of three given numbers");
-          System.out.println("The number 'b' is the middle out of three given numbers");
+          System.out.println("The number 'b' is the medium out of three given numbers");
           System.out.println("The number 'c' is the smallest out of three given numbers");
         } else {
           System.out.println("The number 'a' is the biggest out of three given numbers");
-          System.out.println("The number 'c' is the middle out of three given numbers");
+          System.out.println("The number 'c' is the medium out of three given numbers");
           System.out.println("The number 'b' is the smallest out of three given numbers");
         }
       }
@@ -25,11 +25,11 @@ public class TheBiggestNumber {
       if (b > c) {
         if (a > c) {
           System.out.println("The number 'b' is the biggest out of three given numbers");
-          System.out.println("The number 'a' is the middle out of three given numbers");
+          System.out.println("The number 'a' is the medium out of three given numbers");
           System.out.println("The number 'c' is the smallest out of three given numbers");
         } else {
           System.out.println("The number 'b' is the biggest out of three given numbers");
-          System.out.println("The number 'c' is the middle out of three given numbers");
+          System.out.println("The number 'c' is the medium out of three given numbers");
           System.out.println("The number 'a' is the smallest out of three given numbers");
         }
       }
@@ -38,11 +38,11 @@ public class TheBiggestNumber {
       if (c > b) {
         if (a > b) {
           System.out.println("The number 'c' is the biggest out of three given numbers");
-          System.out.println("The number 'a' is the middle out of three given numbers");
+          System.out.println("The number 'a' is the medium out of three given numbers");
           System.out.println("The number 'b' is the smallest out of three given numbers");
         } else {
           System.out.println("The number 'c' is the biggest out of three given numbers");
-          System.out.println("The number 'b' is the middle out of three given numbers");
+          System.out.println("The number 'b' is the medium out of three given numbers");
           System.out.println("The number 'a' is the smallest out of three given numbers");
         }
       }
