@@ -3,30 +3,48 @@ package HOME_TASKS.Lesson_3;
 public class TheBiggestNumber {
 
   public static void main(String[] args) {
+    // Numbers shouldn't be equal
     int a = 1;
-    int b = -2;
-    int c = -75;
+    int b = 2;
+    int c = 3;
 
-    if (a == b) {
-      System.out.println("'a' = 'b'");
-    }
-    if (a == c) {
-      System.out.println("'a' = 'c'");
-    }
-    if (c == b) {
-      System.out.println("'c' = 'b'");
-    }
     if (a > b) {
       if (a > c) {
-        System.out.println("The number 'a' is the biggest out of three given numbers");
-      } else if (a < c) {
-        System.out.println("The number 'c' is the biggest out of three given numbers");
+        if (b > c) {
+          System.out.println("The number 'a' is the biggest out of three given numbers");
+          System.out.println("The number 'b' is the middle out of three given numbers");
+          System.out.println("The number 'c' is the smallest out of three given numbers");
+        } else {
+          System.out.println("The number 'a' is the biggest out of three given numbers");
+          System.out.println("The number 'c' is the middle out of three given numbers");
+          System.out.println("The number 'b' is the smallest out of three given numbers");
+        }
       }
-    } else if (a < b) {
+    }
+    if (b > a) {
       if (b > c) {
-        System.out.println("The number 'b' is the biggest out of three given numbers");
-      } else {
-        System.out.println("The number 'c' is the biggest out of three given numbers");
+        if (a > c) {
+          System.out.println("The number 'b' is the biggest out of three given numbers");
+          System.out.println("The number 'a' is the middle out of three given numbers");
+          System.out.println("The number 'c' is the smallest out of three given numbers");
+        } else {
+          System.out.println("The number 'b' is the biggest out of three given numbers");
+          System.out.println("The number 'c' is the middle out of three given numbers");
+          System.out.println("The number 'a' is the smallest out of three given numbers");
+        }
+      }
+    }
+    if (c > a) {
+      if (c > b) {
+        if (a > b) {
+          System.out.println("The number 'c' is the biggest out of three given numbers");
+          System.out.println("The number 'a' is the middle out of three given numbers");
+          System.out.println("The number 'b' is the smallest out of three given numbers");
+        } else {
+          System.out.println("The number 'c' is the biggest out of three given numbers");
+          System.out.println("The number 'b' is the middle out of three given numbers");
+          System.out.println("The number 'a' is the smallest out of three given numbers");
+        }
       }
     }
   }
