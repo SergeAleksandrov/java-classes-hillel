@@ -2,9 +2,12 @@ package HOME_TASKS.Lesson_4;
 
 import java.util.Scanner;
 
-public class DecimalBinary {
+public class DecimalBinary{
 
   public static void main(String[] args) {
+
+    System.out.println();
+
     BinaryToDecimal();
     DecimalToBinary();
   }
