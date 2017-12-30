@@ -8,6 +8,7 @@ public class FiguresLesson4SecondWay {
     figureTwo();
     figureThree();
     figureFour();
+    figureFive();
   }
 
   public static void figureOne() {
@@ -18,7 +19,7 @@ public class FiguresLesson4SecondWay {
     int n = 8, m;
 
     for (int i = 0; i < n; i++) {
-      m=n-i;
+      m = n - i;
       for (int y = 0; y < m; y++) {
         System.out.print("# ");
       }
@@ -34,7 +35,7 @@ public class FiguresLesson4SecondWay {
     int n = 9, m;
 
     for (int i = 0; i < n; i++) {
-      m=n-(n-i);
+      m = n - (n - i);
       for (int y = 0; y < m; y++) {
         System.out.print("# ");
       }
@@ -70,6 +71,7 @@ public class FiguresLesson4SecondWay {
       }
     }
   }
+
   public static void figureFour() {
 
     System.out.println("\n \n");
@@ -114,6 +116,27 @@ public class FiguresLesson4SecondWay {
         }
         System.out.println();
       }
+    }
+  }
+
+  public static void figureFive() {
+
+    System.out.println("\n \n");
+    System.out.println("Figure №5 (второй вариант) \n");
+
+    int n = 8, m, l;
+
+    for (int i = 0; i < n; i++) {
+      l = n - i;
+      m = n - (n - i);
+      for (int y = 0; y < l; y++) {
+        for (int x = 0; x < m; x++){
+          System.out.print("  ");
+        }
+        System.out.print("# ");
+        m = 0;
+      }
+      System.out.println();
     }
   }
 }
