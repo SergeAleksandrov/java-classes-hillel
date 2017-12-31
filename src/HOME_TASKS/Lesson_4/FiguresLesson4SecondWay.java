@@ -10,6 +10,8 @@ public class FiguresLesson4SecondWay {
     figureFour();
     figureFive();
     figureSix();
+    figureSeven();
+    figureEight();
   }
 
   public static void figureOne() {
@@ -131,7 +133,7 @@ public class FiguresLesson4SecondWay {
       l = n - i;
       m = n - (n - i);
       for (int y = 0; y < l; y++) {
-        for (int x = 0; x < m; x++){
+        for (int x = 0; x < m; x++) {
           System.out.print("  ");
         }
         System.out.print("# ");
@@ -140,6 +142,7 @@ public class FiguresLesson4SecondWay {
       System.out.println();
     }
   }
+
   public static void figureSix() {
 
     System.out.println("\n \n");
@@ -150,8 +153,8 @@ public class FiguresLesson4SecondWay {
     for (int i = 0; i < n; i++) {
       l = n - i;
       m = n - (n - i);
-      for (int y = 0; y <=m; y++) {
-        for (int x = 1; x < l; x++){
+      for (int y = 0; y <= m; y++) {
+        for (int x = 1; x < l; x++) {
           System.out.print("  ");
         }
         System.out.print("# ");
@@ -161,4 +164,114 @@ public class FiguresLesson4SecondWay {
     }
   }
 
+  public static void figureSeven() {
+
+    System.out.println("\n \n");
+    System.out.println("Figure №7 (второй вариант) \n");
+
+    for (int i = 0; i < 13; i++) {
+      if (i == 0 || i == 12) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("#   ");
+        }
+        System.out.println();
+      } else if (i % 2 != 0) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("    ");
+        }
+        System.out.println();
+      } else if (i == 2 || i == 10) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 1 || y == 5) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 4 || i == 8) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 2 || y == 4) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else {
+        for (int y = 0; y < 7; y++) {
+          if (y == 3) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      }
+    }
+  }
+  public static void figureEight() {
+
+    System.out.println("\n \n");
+    System.out.println("Figure №8 (второй вариант) \n");
+
+    for (int i = 0; i < 13; i++) {
+      if (i == 0 || i == 12) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("#   ");
+        }
+        System.out.println();
+      } else if (i % 2 != 0) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("    ");
+        }
+        System.out.println();
+      } else if (i == 2) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 1) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 4) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 2) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 6) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 3) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 8) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 4) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else {
+        for (int y = 0; y < 7; y++) {
+          if (y == 5) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      }
+    }
+  }
 }
