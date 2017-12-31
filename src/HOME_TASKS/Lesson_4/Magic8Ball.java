@@ -42,7 +42,7 @@ public class Magic8Ball {
       System.out.println("My sources say no");
     } else if (a == 18) {
       System.out.println("Outlook not so good");
-    } else if (a == 19) {
+    } else {
       System.out.println("Very doubtful");
     }
   }
