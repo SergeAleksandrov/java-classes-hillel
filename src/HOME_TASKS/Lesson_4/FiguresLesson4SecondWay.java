@@ -12,6 +12,7 @@ public class FiguresLesson4SecondWay {
     figureSix();
     figureSeven();
     figureEight();
+    figureNine();
   }
 
   public static void figureOne() {
@@ -210,6 +211,7 @@ public class FiguresLesson4SecondWay {
       }
     }
   }
+
   public static void figureEight() {
 
     System.out.println("\n \n");
@@ -265,6 +267,70 @@ public class FiguresLesson4SecondWay {
       } else {
         for (int y = 0; y < 7; y++) {
           if (y == 5) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      }
+    }
+  }
+  public static void figureNine() {
+
+    System.out.println("\n \n");
+    System.out.println("Figure №9 (второй вариант) \n");
+
+    for (int i = 0; i < 13; i++) {
+      if (i == 0 || i == 12) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("#   ");
+        }
+        System.out.println();
+      } else if (i % 2 != 0) {
+        for (int y = 0; y < 7; y++) {
+          System.out.print("    ");
+        }
+        System.out.println();
+      } else if (i == 2) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 5) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 4) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 4) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 6) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 3) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else if (i == 8) {
+        for (int y = 0; y < 7; y++) {
+          if (y == 2) {
+            System.out.print("#   ");
+          } else {
+            System.out.print("    ");
+          }
+        }
+        System.out.println();
+      } else {
+        for (int y = 0; y < 7; y++) {
+          if (y == 1) {
             System.out.print("#   ");
           } else {
             System.out.print("    ");
