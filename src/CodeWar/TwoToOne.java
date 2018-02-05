@@ -19,7 +19,7 @@ public class TwoToOne {
         result += temp[i];
       }
     }
-    //result += temp[temp.length - 1];
+    result += temp[temp.length - 1];
     return result;
   }
 }
