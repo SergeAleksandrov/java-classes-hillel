@@ -22,47 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="StringOperations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/StringOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnvVar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/EnvVar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomlyGeneretedString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KKK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/KKK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Convertors.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Convertors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/Convertors.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -97,41 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecimalBinary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Magic8Ball.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/Magic8Ball.java">
+      <file leaf-file-name="GeneralCalculations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/GeneralCalculations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Configuration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -157,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Loops.java" />
         <option value="$PROJECT_DIR$/src/DynamicChessBoard.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_3/CurrencyRate.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_3/WaterMixture.java" />
@@ -208,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/KKK.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/Convertors.java" />
+        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/GeneralCalculations.java" />
       </list>
     </option>
   </component>
@@ -265,13 +195,6 @@
               <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -312,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Convertors">
+  <component name="RunManager" selected="Application.GeneralCalculations">
     <configuration name="Convertors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -353,6 +276,25 @@
         <env name="browserType" value="FireFox" />
       </envs>
     </configuration>
+    <configuration name="GeneralCalculations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="HOME_TASKS.Lesson_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="HOME_TASKS.Lesson_5.GeneralCalculations" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java-classes-hillel" />
+      <envs />
+    </configuration>
     <configuration name="KKK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -383,25 +325,6 @@
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-classes-hillel" />
-      <envs />
-    </configuration>
-    <configuration name="SysEnvReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Infrastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Infrastructure.SysEnvReturn" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="PATH" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -492,19 +415,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SysEnvReturn" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EnvVar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RandomlyGeneretedString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.KKK" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Convertors" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EnvVar" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RandomlyGeneretedString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.KKK" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Convertors" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GeneralCalculations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Convertors" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KKK" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RandomlyGeneretedString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EnvVar" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SysEnvReturn" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GeneralCalculations" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Convertors" />
+        <item index="2" class="java.lang.String" itemvalue="Application.KKK" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomlyGeneretedString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnvVar" />
       </list>
     </recent_temporary>
   </component>
@@ -606,13 +529,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ClassStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/PrintNumberInWord_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -822,13 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/RestFormulas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1375">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/Equation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -933,6 +842,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/RestFormulas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -945,14 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -987,6 +904,14 @@
             <element signature="e#2705#2706#0" expanded="true" />
             <element signature="e#2767#2768#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/GeneralCalculations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
