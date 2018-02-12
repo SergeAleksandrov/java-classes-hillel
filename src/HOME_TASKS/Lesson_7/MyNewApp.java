@@ -7,6 +7,7 @@ public class MyNewApp {
     user2.setName("Bummer!");
     user2.getName();
     System.out.println(user2.getName());
+    System.out.println(user.toString());
 
   }
 }
