@@ -1,6 +1,6 @@
 package Infrastructure;
 
-public class KKK {
+public class RandomString {
 
   public static void main(String[] args) {
     System.out.println(random("alpha", 10));

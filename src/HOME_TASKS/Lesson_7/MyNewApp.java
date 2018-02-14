@@ -16,5 +16,6 @@ public class MyNewApp {
     logger.log("Open website");
     logger.log("Login User");
     logger.log("Open My Account");
+
   }
 }
