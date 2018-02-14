@@ -25,8 +25,8 @@
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+            <state relative-caret-position="161">
+              <caret line="26" column="101" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="101" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="LibApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -111,8 +111,8 @@
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/RandomString.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/DDD.java" />
-        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java" />
+        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java" />
       </list>
     </option>
   </component>
@@ -162,13 +162,6 @@
               <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
@@ -912,16 +905,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+        <state relative-caret-position="161">
+          <caret line="26" column="101" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="101" />
           <folding />
         </state>
       </provider>

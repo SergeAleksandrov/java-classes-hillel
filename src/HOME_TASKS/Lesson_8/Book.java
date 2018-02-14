@@ -24,8 +24,17 @@ public class Book {
     this(UUID.randomUUID().toString(), title, author, year, description, isbn);
   }
 
+  // Initialisation block (используется для задания начальных значений при вызове default constructor
 
+  public Book(){};  //  default constructor
 
+  {  id = "123";
+     title = "dfdf";
+     author = "dfdf";            //   Initialisation block
+     year = "1234";
+     description = "fdf";
+     isbn = "dfgdf";
+  }
 
 
   public String getId() {

@@ -8,5 +8,9 @@ public class LibApp {
 
     Book bookMy2 = new Book("Mumu", "Turgenev", "1900", "Story", "0000");
     System.out.println(bookMy2.toString());
+
+    Book bookMy3 = new Book();
+    System.out.println(bookMy3);
+
   }
 }
