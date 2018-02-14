@@ -22,11 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="26" column="101" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingDuplicatesInString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CodeWar/CountingDuplicatesInString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoToOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodeWar/TwoToOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -62,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SquareBoard.java" />
-        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/ProbaPera.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/FiguresLesson4.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/MinimalNumber.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/MinimalMaximumNumber.java" />
@@ -113,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/DDD.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java" />
+        <option value="$PROJECT_DIR$/src/CodeWar/CountingDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/CodeWar/CountingDuplicatesInString.java" />
       </list>
     </option>
   </component>
@@ -161,14 +181,13 @@
               <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-classes-hillel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HOME_TASKS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-classes-hillel" type="b2602c69:ProjectViewProjectNode" />
@@ -216,15 +235,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LibApp">
-    <configuration name="CurrentTimeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CountingDuplicatesInString">
+    <configuration name="CountingDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Infrastructure.*" />
+          <option name="PATTERN" value="CodeWar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Infrastructure.CurrentTimeDate" />
+      <option name="MAIN_CLASS_NAME" value="CodeWar.CountingDuplicatesInString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -236,14 +255,14 @@
       <module name="java-classes-hillel" />
       <envs />
     </configuration>
-    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentTimeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="HOME_TASKS.Lesson_5.*" />
+          <option name="PATTERN" value="Infrastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="HOME_TASKS.Lesson_5.FibonacciNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Infrastructure.CurrentTimeDate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -413,19 +432,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FibonacciNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyNewApp" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestLogger" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LibApp" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyNewApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestLogger" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LibApp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LibApp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyNewApp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestLogger" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CurrentTimeDate" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LibApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyNewApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestLogger" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CurrentTimeDate" />
       </list>
     </recent_temporary>
   </component>
@@ -527,13 +546,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/FiguresLesson4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="52" column="63" lean-forward="false" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/MinimalMaximumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -648,13 +660,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_1/sss.java" />
     <entry file="file://$PROJECT_DIR$/src/CodeWar.java" />
-    <entry file="file://$PROJECT_DIR$/src/CodeWar/TwoToOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_1/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -903,6 +908,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="26" column="101" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodeWar/TwoToOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -911,10 +932,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/CodeWar/CountingDuplicatesInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="26" column="101" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="101" />
+        <state relative-caret-position="50">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
           <folding />
         </state>
       </provider>
