@@ -6,12 +6,12 @@ public class Book {
 
   private String id;
   private String title;
-  private String author;
+  private Author author;
   private String year;
   private String description;
   private String isbn;
 
-  public Book(String id, String title, String author, String year, String description, String isbn){
+  public Book(String id, String title, Author author, String year, String description, String isbn){
     this.id = id;
     this.title = title;
     this.author = author;
@@ -20,7 +20,7 @@ public class Book {
     this.isbn = isbn;
   }
         // Вызов одного конструктора из другого (из Book вызывается Book)
-  public Book(String title, String author, String year, String description, String isbn) {
+  public Book(String title, Author author, String year, String description, String isbn) {
     this(UUID.randomUUID().toString(), title, author, year, description, isbn);
   }
 
@@ -30,7 +30,7 @@ public class Book {
 
   {  id = "123";
      title = "dfdf";
-     author = "dfdf";            //   Initialisation block
+     author = new Author("John", "Garret");            //   Initialisation block
      year = "1234";
      description = "fdf";
      isbn = "dfgdf";
@@ -53,11 +53,11 @@ public class Book {
     this.title = title;
   }
 
-  public String getAuthor() {
+  public Author getAuthor() {
     return author;
   }
 
-  public void setAuthor(String author) {
+  public void setAuthor(Author author) {
     this.author = author;
   }
 
