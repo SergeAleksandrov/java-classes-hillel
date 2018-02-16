@@ -22,15 +22,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="93" column="35" lean-forward="false" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-              <folding>
-                <element signature="e#1381#1382#0" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="525">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyNewApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/MyNewApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/TestLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,41 +55,18 @@
       <file leaf-file-name="LibApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="68">
               <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Utils.java">
+      <file leaf-file-name="TestApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/TestApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="53" />
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TernaryOperatorEnvVar.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/TernaryOperatorEnvVar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Configuration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="250">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -81,18 +75,48 @@
       <file leaf-file-name="EnvVar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Infrastructure/EnvVar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+            <state relative-caret-position="425">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Author.java">
+      <file leaf-file-name="CurrentTimeDate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/CurrentTimeDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="150">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigurationManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/ConfigurationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgramArguments.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/ProgramArguments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomlyGeneretedString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -118,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/MinimalMaximumNumber.java" />
-        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/FiguresLesson4SecondWay.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/ThreeArguments.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/GGGUtils.java" />
@@ -128,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_1/TwoToOne.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/TwoToOne.java" />
         <option value="$PROJECT_DIR$/src/CodeWar/TwoToOne.java" />
-        <option value="$PROJECT_DIR$/src/Infrastructure/Configuration.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_1/JJJ.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_1/ProgramArguments.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/ProgramArguments.java" />
@@ -140,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/String.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/StringOperations.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/SysEnvReturn.java" />
-        <option value="$PROJECT_DIR$/src/Infrastructure/EnvVar.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/KKK.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_5/Convertors.java" />
@@ -153,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/User.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/CurrentTimeDate.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/BrowserStarter.java" />
-        <option value="$PROJECT_DIR$/src/Infrastructure/TestLogger.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/MyNewApp.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/FructionNumbers.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/FructionNumber.java" />
@@ -169,6 +188,11 @@
         <option value="$PROJECT_DIR$/src/Infrastructure/Utils.java" />
         <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java" />
         <option value="$PROJECT_DIR$/src/Infrastructure/TernaryOperatorEnvVar.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/ConfigurationManager.java" />
+        <option value="$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/TestApp.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/TestLogger.java" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/EnvVar.java" />
       </list>
     </option>
   </component>
@@ -271,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LibApp">
+  <component name="RunManager" selected="Application.EnvVar">
     <configuration name="CountingDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -291,17 +315,17 @@
       <module name="java-classes-hillel" />
       <envs />
     </configuration>
-    <configuration name="CurrentTimeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EnvVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Infrastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Infrastructure.CurrentTimeDate" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="Infrastructure.EnvVar" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -348,24 +372,27 @@
       <module name="java-classes-hillel" />
       <envs />
     </configuration>
-    <configuration name="TestLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Infrastructure.*" />
+          <option name="PATTERN" value="HOME_TASKS.Lesson_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Infrastructure.TestLogger" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="HOME_TASKS.Lesson_8.TestApp" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="java-classes-hillel" />
-      <envs />
+      <envs>
+        <env name="testBrowser" value="FireFox" />
+        <env name="testEnv" value="staging" />
+      </envs>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -449,19 +476,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CurrentTimeDate" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyNewApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestLogger" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LibApp" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MyNewApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LibApp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EnvVar" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestApp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LibApp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyNewApp" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestLogger" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CurrentTimeDate" />
+        <item index="0" class="java.lang.String" itemvalue="Application.EnvVar" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LibApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CountingDuplicatesInString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyNewApp" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +527,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48198757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4819427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -563,13 +590,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/CheckPassFail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_2/CompareTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -670,24 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/ArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/ArrayOfCodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ProgramArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -703,13 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -757,51 +756,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Infrastructure/BrowserStarter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/SchoolApp.java" />
     <entry file="file://$PROJECT_DIR$/src/Infrastructure/FractionNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8.java" />
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/CurrentTimeDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/MyNewApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodeWar/CountingDuplicatesInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -829,29 +786,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Author.java">
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/ArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="125">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_4/DecimalBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
+        <state relative-caret-position="150">
           <caret line="93" column="35" lean-forward="false" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-          <folding>
-            <element signature="e#1381#1382#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="65">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/TernaryOperatorEnvVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -859,7 +837,7 @@
     <entry file="file://$PROJECT_DIR$/src/Infrastructure/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="53" />
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="53" />
           <folding>
             <element signature="e#101#102#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
@@ -867,26 +845,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/TestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_8/LibApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/CurrentTimeDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ProgramArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/RandomlyGeneretedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOME_TASKS/Lesson_7/MyNewApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Infrastructure/EnvVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Configuration.java">
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/ConfigurationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Infrastructure/TernaryOperatorEnvVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="59" />
+        <state relative-caret-position="147">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>

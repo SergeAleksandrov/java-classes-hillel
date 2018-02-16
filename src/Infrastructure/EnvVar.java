@@ -5,6 +5,9 @@ public class EnvVar {
   public static void main(String[] args) {
     String browser = getEnvironmentVariableOrDefault("browserType", "Chrome");
     System.out.println(browser);
+    TestLogger t = new TestLogger();
+    t.log("Start browser");
+
   }
 
   public static String getEnvironmentVariableOrDefault(String envVar, String defaultValue){

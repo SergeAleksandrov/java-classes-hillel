@@ -3,7 +3,7 @@ package Infrastructure;
 public class TernaryOperatorEnvVar {
 
   public static void main(String[] args) {
-    // Choosing of browser with a help of ternary operator 
+    // Choosing of browser with a help of ternary operator
     String envVar = "browserType";
     String browser = System.getenv("browserType") != null ? System.getenv("browserType") : "Chrome";
     System.out.println("Browser is " + browser);

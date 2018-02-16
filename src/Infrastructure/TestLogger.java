@@ -8,6 +8,7 @@ public class TestLogger {
   int counter = 1;
 
   public void log(String msg){
+
     // Current time
     String time = "HH:mm:ss:SSS";
     SimpleDateFormat simpleDateFormat = new SimpleDateFormat(time);
