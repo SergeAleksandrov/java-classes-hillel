@@ -20,6 +20,6 @@ public class WebDriverManager {
     }
   }
   public void destroy (String browser){
-
+    System.out.println(browser + " was closed");
   }
 }
