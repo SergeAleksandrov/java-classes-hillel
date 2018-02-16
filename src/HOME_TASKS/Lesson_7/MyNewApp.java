@@ -1,6 +1,6 @@
 package HOME_TASKS.Lesson_7;
 
-import Infrastructure.TestLogger;
+import Infrastructure.Logger.TestLogger;
 
 public class MyNewApp {
   public static void main(String[] args) {

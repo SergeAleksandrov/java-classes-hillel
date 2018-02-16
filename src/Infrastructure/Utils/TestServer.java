@@ -1,4 +1,6 @@
-package Infrastructure;
+package Infrastructure.Utils;
+
+import Infrastructure.Config.ConfigurationManager;
 
 public class TestServer {
 

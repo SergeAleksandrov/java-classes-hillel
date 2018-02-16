@@ -1,4 +1,6 @@
-package Infrastructure;
+package Infrastructure.WebDriverManager;
+
+import Infrastructure.Config.ConfigurationManager;
 
 public class WebDriverManager {
 

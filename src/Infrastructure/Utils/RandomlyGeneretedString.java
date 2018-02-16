@@ -1,4 +1,4 @@
-package Infrastructure;
+package Infrastructure.Utils;
 
 import javax.sound.midi.Soundbank;
 

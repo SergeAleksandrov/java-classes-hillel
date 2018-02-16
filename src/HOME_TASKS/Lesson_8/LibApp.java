@@ -1,6 +1,6 @@
 package HOME_TASKS.Lesson_8;
 
-import Infrastructure.Utils;
+import Infrastructure.Utils.Utils;
 
 public class LibApp {
   public static void main(String[] args) {

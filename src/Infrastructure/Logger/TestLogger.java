@@ -1,4 +1,4 @@
-package Infrastructure;
+package Infrastructure.Logger;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

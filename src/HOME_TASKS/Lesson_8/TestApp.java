@@ -1,6 +1,6 @@
 package HOME_TASKS.Lesson_8;
 
-import Infrastructure.ConfigurationManager;
+import Infrastructure.Config.ConfigurationManager;
 
 public class TestApp {
   public static void main(String[] args) {

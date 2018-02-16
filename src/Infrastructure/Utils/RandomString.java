@@ -1,4 +1,4 @@
-package Infrastructure;
+package Infrastructure.Utils;
 
 public class RandomString {
 
