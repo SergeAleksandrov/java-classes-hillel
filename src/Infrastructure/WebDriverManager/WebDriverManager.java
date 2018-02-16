@@ -19,4 +19,7 @@ public class WebDriverManager {
         return "Invalid";
     }
   }
+  public void destroy (String browser){
+
+  }
 }
