@@ -5,7 +5,7 @@ import Infrastructure.Config.ConfigurationManager;
 public class TestServer {
 
   public String getUrl (){
-    String server = ConfigurationManager.getInstance().getTestBrowser();
+    String server = ConfigurationManager.getInstance().getTestEnv();
 
     switch (server){
       case "local":

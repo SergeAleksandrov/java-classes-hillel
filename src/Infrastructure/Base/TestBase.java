@@ -1,4 +1,4 @@
-package HOME_TASKS.Lesson_9.Base;
+package Infrastructure.Base;
 
 import Infrastructure.Logger.TestLogger;
 import Infrastructure.Utils.TestServer;
@@ -11,16 +11,25 @@ public class TestBase {
   protected TestLogger logger;
 
   // Before
-  public void setUp(){
+  public void setUp() {
     logger = new TestLogger();
     wdm = new WebDriverManager();
     browser = wdm.create();
     String url = new TestServer().getUrl();
-    logger.log("Open website" + url);
+    logger.log("Open website: " + url);
+    beforeTest();
   }
   // After
-  public void cleanUp(){
-  logger.log("Close browser");
-  wdm.destroy("browser");
+
+  public void cleanUp() {
+    afterTest();
+    logger.log("Close browser");
+    wdm.destroy("browser");
+  }
+
+  protected void beforeTest() {
+  }
+
+  protected void afterTest() {
   }
 }
